@@ -93,3 +93,9 @@
 ![image](https://github.com/Dinoryong/HANACARD/assets/132031000/5cdf7c24-44fe-4866-901e-dc45c5002f26)
 - 상관관계 파악 결과, 이용 후 경과월이랑 탈회여부는 상관성이 없고, 고객구분(휴면)과는 높은 상관관계를 보임
 - 종속변수로 탈회여부는 쓸 수 없음, 고객구분을 종속변수로
+- 
+
+
+전체 칼럼 결측치
+![image](https://github.com/Dinoryong/HANACARD/assets/132031000/64242829-e51e-4d26-8fa4-42e0f8287ed8)
+
