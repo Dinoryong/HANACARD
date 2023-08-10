@@ -1,0 +1,19 @@
+1. 하나카드(하나카드 데이터라서 기관으로 넣음)
+	(1) 하나카드 - 투자정보 - 기업공시
+	https://www.hanacard.co.kr/OGA30000010D.web
+2. 경쟁사 (기업계 카드사 : 비씨카드, 삼성카드, 현대카드, 롯데카드   | 은행계 카드사 : 우리카드, 신한카드, KB국민카드)
+3. 여신금융협회(신용카드사 or 리스·할부금융사 or 신기술금융사)
+	(1) 정보센터 - 여신금융연구소에서 (연구소 소식, 여신금융보고서, 발간 및  행사자료, 종간)
+	https://www.crefia.or.kr/
+	(2) 회원사 정보 - 통계(연도별 신용카드 이용실적, 월별 신용카드 이용실적)
+	https://www.crefia.or.kr/
+4. 한국신용카드학회
+	(1) 학회지 - 논문찾기
+	http://www.creditcard.re.kr/common/journal/list.html?a_gb=app&a_cd=1&a_item=0&sm=2_4&po_list_type=C
+	http://www.creditcard.re.kr/common/board/listbody.html?a_gb=board&a_cd=7&a_item=0&sm=6_1&page=1&po_no=2254
+5. 금융감독원
+	(1) o 금융통계 - 금융통계정보에 접속
+	    o 비은행 - 신용카드사
+	https://fisis.fss.or.kr/fss/fsiview/indexw.html
+	(2)  o 금융통계 - 핵심경영지표 - 카드사
+	https://fine.fss.or.kr/fine/fncco/coreMngmt/fisisCard.do?menuNo=900053
