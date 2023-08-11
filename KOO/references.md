@@ -42,5 +42,11 @@
 
 
 
+[고객 생애 가치 공식](https://www.servicenow.com/kr/products/customer-service-management/what-is-customer-loyalty.html)
+
+
+
+
+
 
 
