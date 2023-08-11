@@ -29,3 +29,12 @@
 
 
 [카드고객 군집별 분석](https://dsz.kdata.or.kr/svc/page/application/data_analysis_tab.do?extraInfo=tab5)
+
+
+
+[데이터 안심 구역](https://dsz.kdata.or.kr/svc/page/application/data_analysis_tab.do?extraInfo=tab5)
+
+
+
+
+
