@@ -46,6 +46,50 @@
 
 
 
+[PLCC](https://www.asiatime.co.kr/article/20210806500172#_mobwcvr)
+
+[휴면카드 비중 최저](https://www.meconomynews.com/news/articleView.html?idxno=63291)
+
+
+
+
+
+20-30대 고객 세그먼트 나눌 때
+
+일시불 매출 금액이 많은 고객, 금융 상품의 잔액이 남아 있는 고객
+
+전월 대비 일시불 매출이 얼마 이상 증가한 고객
+
+한도가 상향된 고객
+
+모바일 쿠폰을 받은 고객 => 이자율 할인이나 포인트를 받은 고객보다 반응률이 높은지 => 반응률이 1.5배 2배 올랐다
+
+
+
+해당 가맹점을 주로 이용하는 고객들 특징 :  그 리뷰에서 주로 어떤 단어들이 언급되는지, 워드 클라우드
+
+
+
+
+
+[6. Reduce chargebacks](https://www.fisglobal.com/en/insights/merchant-solutions-worldpay/article/7-reasons-to-view-analytics-provided-by-a-credit-card-payment-processor)
+
+
+
+[EDA](https://www.linkedin.com/pulse/exploring-customer-behavior-data-analysis-credit-card-gordon-kwok)
+
+
+
+
+
+
+
+
+
+[card data analysis flow](https://srinimf.com/2017/03/03/all-you-need-to-know-about-credit-card-analytics/)
+
+
+
 
 
 
