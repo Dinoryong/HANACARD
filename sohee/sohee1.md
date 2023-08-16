@@ -94,4 +94,4 @@ https://www.card-gorilla.com/contents/detail/2566
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/a8086b22-f2df-4125-9602-82d08fe5cb83)
 
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/43434f6f-a073-4d63-ba87-bf9838c1f724)
-평소 지출계획을 잘 세우고 있거나, 재테크를 체계적으로 관리한 사람일수록 카드 효율을 극대화할 수 있다.
+평소 지출계획을 잘 세우고 있거나, 재테크를 체계적으로 관리한 사람일수록 카드 효율을 극대화할 수 있음
