@@ -42,6 +42,8 @@ PLCC는 특정 브랜드 충성도가 높은 사람을 고객으로 유치할 �
    ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/afddaea3-5115-465d-9bed-c5d8db7b8cd3)
 
 ## 02 RFM Segmentation
+https://hevodata.com/learn/marketing-rfm-analysis/
+
     Recency	얼마나 최근에 구매했는가
     Frequency 얼마나 자주 구매했는가
     Monetary 얼마나 많은 금액을 지출했는가
