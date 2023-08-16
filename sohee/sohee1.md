@@ -23,6 +23,8 @@ PLCC는 특정 브랜드 충성도가 높은 사람을 고객으로 유치할 �
 ## 01 코호트 분석
   다기간 동안 UX/UI적으로 활용하는 분석 기법 => 우리 데이터와 맞지 않은 분석 기법
    ex. 10일동안 신규 고객의 이용률 변화=> 어느 시점에서 이용률이 떨어지는지 파악해서 고객 이탈 방지.
+   ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/afddaea3-5115-465d-9bed-c5d8db7b8cd3)
+
 ## 02 RFM:
     Recency	얼마나 최근에 구매했는가
     Frequency	얼마나 자주 구매했는가
