@@ -18,6 +18,8 @@
 https://www.straightnews.co.kr/news/articleView.html?idxno=228140
 > 전업 카드사 8곳 중 휴면카드 비중이 가장 낮은 4개사는 신한카드(9.11%), 삼성카드(9.38%), 현대카드(9.63%), KB국민카드(10.6%)로 나타나 이용실적 순위 그대로 휴면카드 비중도 낮음/ 23년 2월 기준 개인 기준 실적 상위 4개사는 신한카드, 삼성카드, 현대카드, KB국민카드 순/전체 이용 회원수(개인)를 살펴보면 신한카드(1093만4000명), 삼성카드(988만3000명), KB국민카드(896만6000명), 현대카드(863만7000명)로 실적 규모와 대동소이한 모습을 보임
 
+리텐션 마케팅: 신규 고객을 유입시키기보다는 기존에 보유하고 있는 고객 유지율을 증가시켜 매출을 극대화하려는 마케팅 기법
+휴면고객 활성화의 이점: 1. 비용 저렴/ 2. 낮은 가입장벽 
 
 휴면 카드 증가 이유:
 - 상업자표시신용카드(PLCC, Private Label Credit Card) 발급 증가
@@ -31,12 +33,15 @@ PLCC는 특정 브랜드 충성도가 높은 사람을 고객으로 유치할 �
    ex. 10일동안 신규 고객의 이용률 변화=> 어느 시점에서 이용률이 떨어지는지 파악해서 고객 이탈 방지.
    ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/afddaea3-5115-465d-9bed-c5d8db7b8cd3)
 
-## 02 RFM:
+## 02 RFM Segmentation
     Recency	얼마나 최근에 구매했는가
     Frequency 얼마나 자주 구매했는가
     Monetary 얼마나 많은 금액을 지출했는가
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/4356612c-5b71-42d1-9c76-ab0d21056d5b)
 https://velog.io/@vive0508/rfm#rfm-%EB%B6%84%EC%84%9D--%EC%98%88%EC%8B%9C-2
+
+## 03 LTV Segmentation
+
 
 # 카드 추천, 신규 카드 개발 프로세스
 ## 01 현재 운영중인 카드 추천 서비스
@@ -64,3 +69,9 @@ https://www.card-gorilla.com/contents/detail/2524
 생활비 할인카드이지만, 대형마트/백화점 등 쇼핑할인 혜택은 없는 게 아쉽다. 그래서 쇼핑 할인 혜택과 함께 생활비를 아껴줄 카드와 함께 써보는 건 어떨까.
 ### 02 원더카드
 https://www.card-gorilla.com/contents/detail/2395
+원더카드 5종은 빅데이터 분석과 고객의 의견을 통해 라이프스타일에 맞춘 혜택 조합으로 구성된 카드지만, 고객이 원한다면 매월 혜택 조합을 바꾸거나 추가할 수 있는 카드임.
+
+모든 가맹점 혜택을 지닌 FREE, HAPPY와 직장인 맞춤형 혜택인 DAILY, 생활비 특화 혜택을 담은 LIVING, 그리고 SK텔레콤 및 SK계열사를 주로 이용하는 고객에게 최적화된 혜택이 있는 T로 구성되어 있음.
+![image](https://github.com/Dinoryong/HANACARD/assets/132030814/a8086b22-f2df-4125-9602-82d08fe5cb83)
+
+![image](https://github.com/Dinoryong/HANACARD/assets/132030814/43434f6f-a073-4d63-ba87-bf9838c1f724)
