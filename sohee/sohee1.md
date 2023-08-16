@@ -37,6 +37,7 @@ PLCC는 특정 브랜드 충성도가 높은 사람을 고객으로 유치할 �
 # 코호트 분석, RFM Segmentation
 ## 01 코호트 분석
   다기간 동안 UX/UI적으로 활용하는 분석 기법 => 우리 데이터와 맞지 않은 분석 기법
+   
    ex. 10일동안 신규 고객의 이용률 변화=> 어느 시점에서 이용률이 떨어지는지 파악해서 고객 이탈 방지.
    ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/afddaea3-5115-465d-9bed-c5d8db7b8cd3)
 
@@ -47,8 +48,15 @@ PLCC는 특정 브랜드 충성도가 높은 사람을 고객으로 유치할 �
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/4356612c-5b71-42d1-9c76-ab0d21056d5b)
 https://velog.io/@vive0508/rfm#rfm-%EB%B6%84%EC%84%9D--%EC%98%88%EC%8B%9C-2
 
-## 03 LTV Segmentation
+고려해야할 점
+- Recency, Frequency, Monetary를 각각 몇 단계로 나눌 것인가
+- Frequency, Monetary를 집계하는 기간을 어떻게 설정할 것인가
+- 콘텐츠 소비 데이터를 Recency(얼마나 최근에 콘텐츠를 봤는지), Frequency(얼마나 많이 봤는지), **Duration(얼마나 오래 봤는지)** 으로 나누어 비슷하게 사용자들의 등급을 분류해 볼 수도 있습니다.
+-  추가적으로 각각의 그룹에 해당하는 사용자들의 특성을 분석하여 서비스에 충성도가 높은 사용자가 특별히 많이 방문한 페이지, **많이 사용한 기능**을 찾아내어 그 페이지 또는 기능을 일반 사용자들이 많이 사용하도록 유도하는 등의 작업을 해볼 수도 있겠습니다.
 
+## 03 FRAT Segmentation
+Frequency, Recency, Amount, Type
+RFM에서 **고객의 구매상품 유형(Type of merchandise / service)** 을 추가함 고객이 구입한 제품의 유형인 구매제품간의 연관성(affinity)을 추가적으로 분석하는데 매우 유용한 방법
 
 # 카드 추천, 신규 카드 개발 프로세스
 ## 01 현재 운영중인 카드 추천 서비스
