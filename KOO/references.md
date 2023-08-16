@@ -89,7 +89,7 @@
 [card data analysis flow](https://srinimf.com/2017/03/03/all-you-need-to-know-about-credit-card-analytics/)
 
 
-
+[카드사에서 카드를 개발하는 방법](https://yozm.wishket.com/magazine/detail/1166/)
 
 
 
