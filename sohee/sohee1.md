@@ -33,7 +33,7 @@ PLCC는 특정 브랜드 충성도가 높은 사람을 고객으로 유치할 �
 
 ## 02 RFM:
     Recency	얼마나 최근에 구매했는가
-    Frequency	얼마나 자주 구매했는가
+    Frequency 얼마나 자주 구매했는가
     Monetary 얼마나 많은 금액을 지출했는가
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/4356612c-5b71-42d1-9c76-ab0d21056d5b)
 https://velog.io/@vive0508/rfm#rfm-%EB%B6%84%EC%84%9D--%EC%98%88%EC%8B%9C-2
