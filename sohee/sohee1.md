@@ -45,8 +45,10 @@ PLCC는 특정 브랜드 충성도가 높은 사람을 고객으로 유치할 �
     Recency	얼마나 최근에 구매했는가
     Frequency 얼마나 자주 구매했는가
     Monetary 얼마나 많은 금액을 지출했는가
+    R은 유지율, F/M은 고객 생애 주기에 영향
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/4356612c-5b71-42d1-9c76-ab0d21056d5b)
 https://velog.io/@vive0508/rfm#rfm-%EB%B6%84%EC%84%9D--%EC%98%88%EC%8B%9C-2
+
 
 고려해야할 점
 - Recency, Frequency, Monetary를 각각 몇 단계로 나눌 것인가
@@ -84,9 +86,12 @@ https://www.card-gorilla.com/contents/detail/2524
 생활비 할인카드이지만, 대형마트/백화점 등 쇼핑할인 혜택은 없는 게 아쉽다. 그래서 쇼핑 할인 혜택과 함께 생활비를 아껴줄 카드와 함께 써보는 건 어떨까.
 ### 02 원더카드
 https://www.card-gorilla.com/contents/detail/2395
+https://www.card-gorilla.com/contents/detail/2566
+
 원더카드 5종은 빅데이터 분석과 고객의 의견을 통해 라이프스타일에 맞춘 혜택 조합으로 구성된 카드지만, 고객이 원한다면 매월 혜택 조합을 바꾸거나 추가할 수 있는 카드임.
 
 모든 가맹점 혜택을 지닌 FREE, HAPPY와 직장인 맞춤형 혜택인 DAILY, 생활비 특화 혜택을 담은 LIVING, 그리고 SK텔레콤 및 SK계열사를 주로 이용하는 고객에게 최적화된 혜택이 있는 T로 구성되어 있음.
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/a8086b22-f2df-4125-9602-82d08fe5cb83)
 
 ![image](https://github.com/Dinoryong/HANACARD/assets/132030814/43434f6f-a073-4d63-ba87-bf9838c1f724)
+평소 지출계획을 잘 세우고 있거나, 재테크를 체계적으로 관리한 사람일수록 카드 효율을 극대화할 수 있다.
