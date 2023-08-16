@@ -47,8 +47,8 @@ https://www.shinhancard.com/mob/MOBFM039N/MOBFM039C01.shc
 스테디 셀러 신용카드 8종
 https://www.card-gorilla.com/contents/detail/2524
 
-### 03 하나카드
-#### 01 1Q
+## 03 하나카드
+### 01 1Q
 [1Q Daily+ 혜택]
 ㆍ전월실적에 따라 국내 0.3~1% 무제한 적립
 ㆍ온라인쇼핑, 통신/교통/자동이체, 해외영역별 이달 합산 금액 10만원 이상 시 5천점 적립
@@ -62,5 +62,5 @@ https://www.card-gorilla.com/contents/detail/2524
 
 [카드 페어링]
 생활비 할인카드이지만, 대형마트/백화점 등 쇼핑할인 혜택은 없는 게 아쉽다. 그래서 쇼핑 할인 혜택과 함께 생활비를 아껴줄 카드와 함께 써보는 건 어떨까.
-#### 02 원더카드
+### 02 원더카드
 https://www.card-gorilla.com/contents/detail/2395
