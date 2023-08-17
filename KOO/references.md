@@ -95,4 +95,19 @@
 
 [최근 카드 서비스](https://maily.so/tipster/posts/db7f61f6)
 
-ㄴ
+[플랫폼금융 카드 서비스](https://news.einfomax.co.kr/news/articleView.html?idxno=4158692)
+
+[신한카드, kisa => 가구형태 추정모델, 언택트 핀테크 서비스 개발](https://news.mt.co.kr/mtview.php?no=2020092011144398694)
+
+[제주신용카드 빅데이터](https://dacon.io/competitions/open/235615/overview/description)
+
+[NLP - without user preferences](https://towardsdatascience.com/nlp-based-recommender-system-without-user-preferences-7077f4474107)
+
+[NEtflix](https://medium.com/mlearning-ai/what-are-the-types-of-recommendation-systems-3487cbafa7c9)
+
+
+
+
+
+
+
