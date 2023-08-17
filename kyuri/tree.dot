@@ -1,0 +1,13 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="이용개월수_신용_R3M <= 2.5\ngini = 0.413\nsamples = 240000\nvalue = [178334, 23160, 38506]\nclass = 21.Active_연속", fillcolor="#eda876"] ;
+1 [label="이용후경과월_신용 <= 2.5\ngini = 0.469\nsamples = 61666\nvalue = [0, 23160, 38506]\nclass = 21.Active_연속", fillcolor="#cdb0f5"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.0\nsamples = 23160\nvalue = [0, 23160, 0]\nclass = 21.Active_연속", fillcolor="#39e581"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 38506\nvalue = [0, 0, 38506]\nclass = 21.Active_연속", fillcolor="#8139e5"] ;
+1 -> 3 ;
+4 [label="gini = 0.0\nsamples = 178334\nvalue = [178334, 0, 0]\nclass = 21.Active_연속", fillcolor="#e58139"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
